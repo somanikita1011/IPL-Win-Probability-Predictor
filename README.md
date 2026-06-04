@@ -29,7 +29,7 @@ ToolPurposePythonCore ProgrammingPandas & NumPyData ProcessingScikit-learnML Mod
 
 🚀 How to Run Locally
 1. Clone the repository
-bashgit clone https://github.com/YOUR_USERNAME/IPL-Win-Probability-Predictor.git
+bashgit clone https://github.com/somanikita1011/IPL-Win-Probability-Predictor.git
 cd IPL-Win-Probability-Predictor
 2. Install dependencies
 bashpip install -r requirements.txt
